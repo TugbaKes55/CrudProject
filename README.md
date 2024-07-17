@@ -7,6 +7,8 @@ I designed a brand new website for shopping list using HTML5, CSS3, JavaScript. 
 - JavaScript
 
 # Features
+- LocalStorage Operations: Add, Update, Delete
+- You can add, delete or update elements to the page instantly.
 
 # Preview
 
